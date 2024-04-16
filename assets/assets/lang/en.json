@@ -280,5 +280,32 @@
   "Upload Images" : "Upload Images",
   "Documents" : "Documents",
 
-  "Select Workshop" : "Select Workshop"
+  "Select Workshop" : "Select Workshop",
+
+
+
+
+
+
+  "Top 5 Insurances" : "Top 5 Insurances",
+  "Top 5 Vendor" : "Top 5 Vendor",
+  "Top 5 Driver" : "Top 5 Driver",
+  "Analytics" : "Analytics",
+  "Truck Drivers" : "Truck Drivers",
+  "Workshops" : "Workshops",
+  "Visitors" : "Visitors",
+  "Members" : "Members",
+  "Top" : "Top",
+  "Insurance" : "Insurance",
+  "Products King" : "Products King",
+  "Revenue" : "Revenue",
+  "Weekly" : "Weekly",
+  "see more..." : "see more...",
+  "Empty User" : "Empty User",
+  "Empty Data" : "Empty Data",
+
+  "Done" : "Done",
+  "Add Category" : "Add Category",
+  "Add Categories Done" : "Add Categories Done"
+
 }

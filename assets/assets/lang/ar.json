@@ -302,6 +302,29 @@
   "Upload Images" : "تحميل الصور",
   "Documents" : "المستندات",
 
-  "Select Workshop" : "اختر ورشة العمل"
+  "Select Workshop" : "اختر ورشة العمل",
+
+
+
+  "Top 5 Insurances" : "أفضل 5 شركات  تأمين",
+  "Top 5 Vendor" : "أفضل 5 بائعين",
+  "Top 5 Driver" : "أفضل 5 شركات  سواقين",
+  "Analytics" : "التحليلات",
+  "Revenue" : "الربح",
+  "Weekly" : "اسبوعي",
+  "see more..." : "المزيد ...",
+  "Top" : "أفضل",
+  "Insurance" : "التأمين",
+  "Products King" : "افضل المنتجات",
+  "Truck Drivers" : "سائقي الشاحنات",
+  "Workshops" : "ورش العمل",
+  "Visitors" : "الزائرين",
+  "Members" : "الاعضاء",
+  "Empty User" : "لا يوجد مستخدمين",
+  "Empty Data" : "لا يوجد بيانات",
+
+  "Done" : "تم",
+  "Add Category" : "اضافة فئة",
+  "Add Categories Done" : "تم اضافة الفئة"
 }
 
